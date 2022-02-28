@@ -1,0 +1,15 @@
+C:\Users\Inna\Desktop\GB\Program_C\SeminarC\Seminar_1_HomeWork\bin\Debug\net6.0\Seminar_1_HomeWork.exe
+C:\Users\Inna\Desktop\GB\Program_C\SeminarC\Seminar_1_HomeWork\bin\Debug\net6.0\Seminar_1_HomeWork.deps.json
+C:\Users\Inna\Desktop\GB\Program_C\SeminarC\Seminar_1_HomeWork\bin\Debug\net6.0\Seminar_1_HomeWork.runtimeconfig.json
+C:\Users\Inna\Desktop\GB\Program_C\SeminarC\Seminar_1_HomeWork\bin\Debug\net6.0\Seminar_1_HomeWork.dll
+C:\Users\Inna\Desktop\GB\Program_C\SeminarC\Seminar_1_HomeWork\bin\Debug\net6.0\Seminar_1_HomeWork.pdb
+C:\Users\Inna\Desktop\GB\Program_C\SeminarC\Seminar_1_HomeWork\obj\Debug\net6.0\Seminar_1_HomeWork.csproj.AssemblyReference.cache
+C:\Users\Inna\Desktop\GB\Program_C\SeminarC\Seminar_1_HomeWork\obj\Debug\net6.0\Seminar_1_HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inna\Desktop\GB\Program_C\SeminarC\Seminar_1_HomeWork\obj\Debug\net6.0\Seminar_1_HomeWork.AssemblyInfoInputs.cache
+C:\Users\Inna\Desktop\GB\Program_C\SeminarC\Seminar_1_HomeWork\obj\Debug\net6.0\Seminar_1_HomeWork.AssemblyInfo.cs
+C:\Users\Inna\Desktop\GB\Program_C\SeminarC\Seminar_1_HomeWork\obj\Debug\net6.0\Seminar_1_HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Inna\Desktop\GB\Program_C\SeminarC\Seminar_1_HomeWork\obj\Debug\net6.0\Seminar_1_HomeWork.dll
+C:\Users\Inna\Desktop\GB\Program_C\SeminarC\Seminar_1_HomeWork\obj\Debug\net6.0\refint\Seminar_1_HomeWork.dll
+C:\Users\Inna\Desktop\GB\Program_C\SeminarC\Seminar_1_HomeWork\obj\Debug\net6.0\Seminar_1_HomeWork.pdb
+C:\Users\Inna\Desktop\GB\Program_C\SeminarC\Seminar_1_HomeWork\obj\Debug\net6.0\Seminar_1_HomeWork.genruntimeconfig.cache
+C:\Users\Inna\Desktop\GB\Program_C\SeminarC\Seminar_1_HomeWork\obj\Debug\net6.0\ref\Seminar_1_HomeWork.dll
