@@ -43,7 +43,7 @@ int N = Sum (number);
 
 Console.Write("Сумма цифр в числе равняется " + N);
 
-*/
+
 
 // Задача 3
 // Напишите программу, которая задаёт массив из 8 элементов и выводит их на экран.
@@ -60,4 +60,23 @@ void Array ()
 }
 Array ();
 
+*/
+
+void Array ()
+{
+    int [] a = new int [8];
+
+    for (int i = 0; i < 8; i++)
+    {
+        a[i] = Convert.ToInt32(Console.ReadLine());
+    }
+    for (int i = 0; i < 8; i++)
+    {
+        Console.Write(a[i] + " ");
+    }
+}
+
+Console.WriteLine("Введите 8 любых чисел: ");
+
+Array ();
 
