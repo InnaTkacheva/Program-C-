@@ -29,6 +29,7 @@
 
 // Задача 2:
 // Показать треугольник Паскаля. Сделать вывод в виде равнобедренного треугольника.
+// Доделано
 
 int [,] CreateTriangle (int size)
 {
@@ -45,9 +46,11 @@ int [,] CreateTriangle (int size)
             triangle [i,j] = triangle [i-1, j-1] + triangle [i-1,j];
         }
     }
-PrintMatrix (triangle);
+    PrintMatrix(triangle);
+PrintTriangle (triangle);
 return triangle;
 }
+
 CreateTriangle (5);
 
 void PrintMatrix(int[,] array)
@@ -59,5 +62,19 @@ void PrintMatrix(int[,] array)
             Console.Write($"{array[i, j]} ");
         }
         Console.WriteLine();
+    }
+}
+
+void PrintTriangle (int [,] array)
+{
+    for (int i = 0; i < array.GetLength(0); i++)
+    {
+        string str ="";
+        Console.Write(str.PadRight(array.GetLength(1)-i));
+        for (int j = 0; j <= i; j++)
+        {
+            Console.Write($"{array[i, j]} ");
+        }
+        Console.WriteLine ();
     }
 }
