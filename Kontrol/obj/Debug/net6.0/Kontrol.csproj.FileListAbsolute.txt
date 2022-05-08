@@ -1,0 +1,15 @@
+C:\Users\Inna\Desktop\GB\Program_C\SeminarC\Kontrol\obj\Debug\net6.0\Kontrol.csproj.AssemblyReference.cache
+C:\Users\Inna\Desktop\GB\Program_C\SeminarC\Kontrol\obj\Debug\net6.0\Kontrol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inna\Desktop\GB\Program_C\SeminarC\Kontrol\obj\Debug\net6.0\Kontrol.AssemblyInfoInputs.cache
+C:\Users\Inna\Desktop\GB\Program_C\SeminarC\Kontrol\obj\Debug\net6.0\Kontrol.AssemblyInfo.cs
+C:\Users\Inna\Desktop\GB\Program_C\SeminarC\Kontrol\obj\Debug\net6.0\Kontrol.csproj.CoreCompileInputs.cache
+C:\Users\Inna\Desktop\GB\Program_C\SeminarC\Kontrol\bin\Debug\net6.0\Kontrol.exe
+C:\Users\Inna\Desktop\GB\Program_C\SeminarC\Kontrol\bin\Debug\net6.0\Kontrol.deps.json
+C:\Users\Inna\Desktop\GB\Program_C\SeminarC\Kontrol\bin\Debug\net6.0\Kontrol.runtimeconfig.json
+C:\Users\Inna\Desktop\GB\Program_C\SeminarC\Kontrol\bin\Debug\net6.0\Kontrol.dll
+C:\Users\Inna\Desktop\GB\Program_C\SeminarC\Kontrol\bin\Debug\net6.0\Kontrol.pdb
+C:\Users\Inna\Desktop\GB\Program_C\SeminarC\Kontrol\obj\Debug\net6.0\Kontrol.dll
+C:\Users\Inna\Desktop\GB\Program_C\SeminarC\Kontrol\obj\Debug\net6.0\refint\Kontrol.dll
+C:\Users\Inna\Desktop\GB\Program_C\SeminarC\Kontrol\obj\Debug\net6.0\Kontrol.pdb
+C:\Users\Inna\Desktop\GB\Program_C\SeminarC\Kontrol\obj\Debug\net6.0\Kontrol.genruntimeconfig.cache
+C:\Users\Inna\Desktop\GB\Program_C\SeminarC\Kontrol\obj\Debug\net6.0\ref\Kontrol.dll
